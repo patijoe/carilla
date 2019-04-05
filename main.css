@@ -1,0 +1,33 @@
+html {
+    background-color: violet;
+}
+
+.section {
+    width: 100vw;
+    height: 80vh;
+    
+}
+
+.carilla {
+    text-align: center;
+    line-height: 50vw;
+    font-size: 100px;
+}
+
+.selectores {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.amarillo {
+    background-color: #ffcc00;
+}
+
+.naranja {
+    background-color: cyan;
+}
+
+.update {
+    margin: 20px;
+}
